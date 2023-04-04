@@ -1,11 +1,10 @@
 import Router from "./srceens/Router";
 
 function App() {
-
   return (
-<>
-<Router/>
-</>
+    <>
+      <Router />
+    </>
   );
 }
 
